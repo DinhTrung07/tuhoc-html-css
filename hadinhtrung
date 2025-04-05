@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <div class="banner-container">
+        <img src="C:\Users\46\Downloads\hadinhtrung.gif" alt="Banner Quảng Cáo">
+    </div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu Dịch vụ Du lịch</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <header>
+        <div class="banner-container">
+            </div>
+      
+    </header>
+
+    <main>
+        <section class="featured-tours">
+            <h2>Các Tour Du Lịch Ưu Đãi</h2>
+            <div class="tour-list">
+                <div class="tour-item">
+                    <img src="C:\Users\46\Downloads\download.jpg" alt="Tour 1">
+                    <h3>Tour Du Lịch Biển Hè [Ưu đãi 50%]</h3>
+                    <p>Khám phá những bãi biển tuyệt đẹp với ưu đãi hấp dẫn...</p>
+                   
+                </div>
+                <div class="tour-item">
+                    <img src="C:\Users\46\Downloads\60d0f31bd03546c7cf54075eb7be646b.jpg" alt="Tour 2">
+                    <h3>Tour Du Lịch Miền Núi [Ưu đãi đặc biệt]</h3>
+                    <p>Trải nghiệm không khí trong lành và cảnh quan hùng vĩ...</p>
+                   
+                </div>
+                </div>
+        </section>
+
+        </main>
+
+    <footer>
+        <div class="contact-info">
+            <h3>Thông tin Liên hệ</h3>
+            <p>Công ty Du Lịch HDT</p>
+            <p>Địa chỉ:Bình Dương</p>
+            <p>Điện thoại: 0346358182</p>
+            <p>Email: hdt123@gmail.com</p>
+        </div>
+        <p>&copy; 2024 Công ty Du Lịch HDT</p>
+    </footer>
+
+    <script>
+        // (Nếu có JavaScript tương tác)
+    </script>
+</body>
+</html>
